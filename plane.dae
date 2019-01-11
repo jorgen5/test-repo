@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.79.0 commit date:2018-03-22, commit time:14:10, hash:f4dc9f9</authoring_tool>
     </contributor>
-    <created>2019-01-11T15:24:28</created>
-    <modified>2019-01-11T15:24:28</modified>
+    <created>2019-01-11T15:26:05</created>
+    <modified>2019-01-11T15:26:05</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -691,7 +691,7 @@
           </instance_geometry>
         </node>
         <node id="propeller" name="propeller" type="NODE">
-          <matrix sid="transform">4.22018e-9 0.7355922 6.6719e-9 -5.66167e-7 0 -4.22018e-9 0.02003339 -0.85 0.06106855 -2.03382e-8 0 0 0 0 0 1</matrix>
+          <matrix sid="transform">7.14154e-9 1.244795 1.12904e-8 -5.66167e-7 0 -7.14153e-9 0.0339012 -0.85 0.1033423 -3.4417e-8 3.12166e-16 0 0 0 0 1</matrix>
           <instance_geometry url="#Cube_003-mesh" name="propeller">
             <bind_material>
               <technique_common>
